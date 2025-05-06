@@ -8,7 +8,8 @@ Explore the fascinating world of **Generative AI** — how machines can create t
 - Real-world Applications
 - Future & Ethics
 
-📖 Read the full blog: https://medium.com/@amnarafeeq68/a-complete-guide-to-generative-ai-unveiling-the-magic-of-machine-creativity-ff55504d8205 (#)
+📖 Read the full blog: [👉 A Complete Guide to Generative AI – Unveiling the Magic of Machine Creativity](https://medium.com/@amnarafeeq68/a-complete-guide-to-generative-ai-unveiling-the-magic-of-machine-creativity-ff55504d8205)
+
 
 ---
 
