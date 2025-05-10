@@ -126,4 +126,4 @@ Visit 👉 [http://localhost:8000/docs](http://localhost:8000/docs) to test the 
 
 ## 👩‍💻 Author
 
-**Amna** – Python Developer | FastAPI Enthusiast | AI Learner
+**Amna Rafeeq** 
