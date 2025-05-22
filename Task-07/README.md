@@ -114,11 +114,6 @@ ai-agent-system/
 ## 👩‍💻 Author
 
 Made with ❤️ by **Amna**  
-[Portfolio Link](https://your-portfolio-link.com)  
-GitHub: [@your-username](https://github.com/your-username)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
